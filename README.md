@@ -1,2 +1,2 @@
 # MobileAutoTest
-移动端自动话测试
+移动端自动化测试
